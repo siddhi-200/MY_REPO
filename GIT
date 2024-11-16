@@ -9,10 +9,7 @@ public int getA() {
 public void setA(int a) {
 	this.a = a;
 }
-int area()
-{
-	return (6*a*a);		
-}
+
 int volume()
 {
 	return (a*a*a);
