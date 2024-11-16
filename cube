@@ -13,7 +13,7 @@ class CubeTest {
 		assertEquals(54, ar);
 		int v = c.volume();
 		assertEquals(27, v);
-		//fail("Not yet implemented");
+	
 	}
 
 }
