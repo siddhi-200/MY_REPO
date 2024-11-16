@@ -13,7 +13,10 @@ int area()
 {
 	return (6*a*a);		
 }
-
+int volume()
+{
+	return (a*a*a);
+}
 public static void main(String[] args) {
 
 }
